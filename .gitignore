@@ -1,0 +1,6 @@
+porcupine/*
+spchate/*
+assemblyai-and-python-in-5-minutes/*
+*.pyc
+env/*
+spchat/*
