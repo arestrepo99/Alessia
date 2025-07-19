@@ -184,7 +184,7 @@ py-expression-eval==0.3.14
 pyarrow==13.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pyautogen==0.1.11
+ag2==0.1.11
 pycparser==2.21
 pydantic==1.10.2
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1660666458521/work
